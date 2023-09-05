@@ -1,0 +1,151 @@
+header{
+    background-image: url(../img/products-page-heading.jpg);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 40vh; 
+}
+a.abc{
+  color:black;
+  text-decoration: none;
+  font-weight: 600;
+    font-size: 19px;
+  }
+  a.abc:hover{
+    color:rgb(131, 131, 131);
+    }
+    a.ab{
+      color:rgb(131, 131, 131);
+      text-decoration: none;
+      font-weight: 600;
+        font-size: 19px;
+      }
+      a.ab:hover{
+        color:rgb(131, 131, 131);
+        }
+        .navbg{
+          background-color: #fff;
+        }
+
+/* section1 */
+.o1{
+  text-align: center;
+  }
+/* section1 */
+.nav{
+    color: black;
+  }
+  .er{
+    border-top: 1px solid  rgb(219, 216, 216);
+    
+  }
+  /*  */
+  
+  
+  /* section2 */
+  
+  .website{
+      font-weight: 500;
+      font-size: 17px;
+      font-style: italic;
+  }
+ 
+  
+  /*  */
+  /* footer */
+  footer{
+      background-color:rgb(41, 40, 40) ;
+  }
+  section{
+    background-color:rgb(41, 40, 40) ;
+  }
+
+  .pa{
+      color: white;
+  }
+  .pa1{
+      color: white;
+      text-align: center;
+  border-top: 1px solid rgb(107, 105, 105);
+  }
+  .pa2{
+      color: white;
+      text-align: center;
+  }
+  .face{
+      color: white;
+  }
+  
+  /*  */
+  .three{
+      border-top: 2px dashed rgb(181, 178, 178);
+  }
+  .bor{
+      border-bottom: 2px dashed rgb(181, 178, 178);
+  }
+  .HTML5{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+}
+h1.Our{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    color: white;
+}
+h1.Ou{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 600;
+   
+}
+.HTML{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(133, 129, 129);
+}
+  .Add:hover{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+  }
+  .Add{
+    border: 1px solid black;
+    text-decoration: none;
+color: black;
+  }
+  .Total{
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(133, 129, 129);
+
+  }
+  
+  .TemplateMo{
+    color: rgb(164, 186, 184);
+    text-decoration: none;
+   
+  } 
+  .TemplateMo:hover{
+    color: chocolate;
+  }
+  
+  .face{
+    color: rgb(164, 186, 184);
+    
+}
+.face:hover{
+  color: chocolate;
+}
+  
+  
+  
+  
+  
+  
+  
